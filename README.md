@@ -1,4 +1,4 @@
-# Hi, I'm Justin
+# Hi, I'm Justin 👋
 
 I am a junior developer in training, currently building practical projects with **Python**, **JavaScript**, and **TypeScript**. My work focuses on web applications, frontend interfaces, data organization, search/filtering experiences, and portfolio-focused side projects.
 

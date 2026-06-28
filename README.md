@@ -15,26 +15,26 @@ My background is related to **Library and Information Science**, so I am especia
 
 ## Featured Projects
 
-### [CafeNet Manager](https://github.com/Justin21523/cafe-net-manager)
+### [Agentic_Bi_Dataops_Copilot](https://github.com/Justin21523/agentic-bi-dataops-copilot)
 
-A C++ / Qt desktop management system prototype for cafe seating, timed sessions, and floor-plan operations.
+An AI-powered BI and DataOps copilot that automates data understanding, pipeline planning, analysis workflows, and insight generation.
 
-- Focus: seat map interaction, session workflow, SQLite data modeling, CMake project structure
-- Status: In Progress / Learning Project
+* Focus: BI automation, data pipeline planning, agentic workflow design, data analysis orchestration
+* Status: In Progress / AI Data Platform Project
 
 ### [ArchiveFlow Studio](https://github.com/Justin21523/archive-flow-studio)
 
 A C# / Avalonia desktop project centered on metadata, file organization, and visual workflow design.
 
-- Focus: node-based UI, metadata workflows, SQLite persistence, digital archive concepts
-- Status: In Progress / Learning Project
+* Focus: node-based UI, metadata workflows, SQLite persistence, digital archive concepts
+* Status: In Progress / Learning Project
 
-### [Research Paper & Knowledge Workspace](https://github.com/Justin21523/research-paper-and-knowledge-workspace)
+### [News_Information_Retrieval_System](https://github.com/Justin21523/news-information-retrieval-system)
 
-A C# / Avalonia desktop project for research papers, bibliographic metadata, notes, and personal knowledge organization.
+A Chinese news information retrieval system with search, ranking models, faceted browsing, explainable results, and evaluation dashboards.
 
-- Focus: literature management, metadata, research notes, EF Core, SQLite
-- Status: In Progress / Learning Project
+* Focus: information retrieval, ranking models, faceted search, result explanation, evaluation dashboards
+* Status: Portfolio-ready / Live Demo Project
 
 ## Tech Stack
 
